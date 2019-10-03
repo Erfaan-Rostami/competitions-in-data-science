@@ -4,5 +4,5 @@ I present some of these pages below.
 ## Useful Links:
 &#10023; <a href="https://towardsdatascience.com/top-competitive-data-science-platforms-other-than-kaggle-2995e9dad93c">Top Competitive Data Science Platforms other than Kaggle!</a>, by Parul Pandey
 
-&#10023; <a href=""></a>
+&#10023; <a href="https://www.kdnuggets.com/tag/competition">Competitions</a>
 
