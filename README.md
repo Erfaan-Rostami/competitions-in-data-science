@@ -6,3 +6,5 @@ I present some of these pages below.
 
 &#10023; <a href="https://www.kdnuggets.com/tag/competition">Competitions</a>
 
+&#10023; <a href="https://medium.com/@rgrgrajat1/how-to-win-a-deep-learning-competition-without-coding-e1e7230efb46">How to Win a Deep Learning Competition - Without Coding?!</a>, by Rajat
+
